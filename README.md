@@ -7,4 +7,4 @@
 ![owl streak](https://coolreadme.xyz/api/owl-card?user=Shubham-k-yadav&style=compact&accent=%2300FF88)
 
 
-<sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/Shubham-k-yadav) — one-click GitHub README cards.</sub>
+
