@@ -1,6 +1,6 @@
 
 <div align="center">
-  
+  <h1>Hi I'm Shubham Kumar Yadav</h1>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner"/> 
 
 ![Typing Headline](https://coolreadme.xyz/api/typing-card?user=Shubham-k-yadav&theme=dark&accent=%2300FF88&lines=Hi%2BI'am%2BShubham%2BKumar%2BYadav%20%7C%20Final-Year%2BB.Tech%2BCSE%2B(AIML)%2BStudent%7C%20Building%2BReal-World%2BAI%2BFull-Stack%2BSystems%20%7C%20Actively%2BLooking%2Bfor%2BSDE%2FAI-ML%2Broles%20)
