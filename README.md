@@ -72,7 +72,6 @@ I work with Java, React.js, Node.js, Express.js, MongoDB, REST APIs, and modern 
 
 <td width="25%" valign="top" align="center">
 
-### 💻 Programming Languages
 
 <table>
 <tr>
