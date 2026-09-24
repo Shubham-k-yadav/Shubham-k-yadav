@@ -278,7 +278,7 @@ I work with Java, React.js, Node.js, Express.js, MongoDB, REST APIs, and modern 
 <td width="100%">
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-k-yadav&theme=github-dark&hide_border=true&area=true&line=1683ff&point=ffffff" width="100%" />
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Shubham-k-yadav&theme=tokyo-night&hide_border=true"" width="100%" />
 </p>
 
 </td>
