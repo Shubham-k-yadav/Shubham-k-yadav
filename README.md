@@ -9,7 +9,7 @@
 I build scalable web applications and love solving real-world problems through code.
 Passionate about creating efficient solutions and exploring new technologies.
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="70%"    alt="banner" />
 
 <p align="center">
   <a href="https://portfolio-kohl-two-75.vercel.app/"><img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-0A84FF?style=for-the-badge&labelColor=07111f" alt="Portfolio"/></a>
@@ -75,13 +75,13 @@ Git & GitHub • VS Code • IntelliJ IDEA • Postman
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-k-yadav&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-k-yadav&theme=github-dark-blue&hide_border=true"  width="70%" alt="GitHub Streak Stats"/>
 </p>
 
 ## 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Shubham-k-yadav&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Shubham-k-yadav&theme=tokyo-night&hide_border=true" width="70%" alt="Contribution Graph"/>
 </p>
 
 ---
